@@ -1,0 +1,6 @@
+@RespositoryPatternWithUOW_HostAddress = http://localhost:5105
+
+GET {{RespositoryPatternWithUOW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

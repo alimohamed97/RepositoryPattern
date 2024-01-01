@@ -1,0 +1,11 @@
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\bin\Debug\net8.0\RespositoryPatternWithUOW.Core.deps.json
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\bin\Debug\net8.0\RespositoryPatternWithUOW.Core.dll
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\bin\Debug\net8.0\RespositoryPatternWithUOW.Core.pdb
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.AssemblyInfo.cs
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.dll
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\refint\RespositoryPatternWithUOW.Core.dll
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\RespositoryPatternWithUOW.Core.pdb
+C:\Users\shi5a\source\repos\RespositoryPatternWithUOW.APi\RespositoryPatternWithUOW.Core\obj\Debug\net8.0\ref\RespositoryPatternWithUOW.Core.dll
